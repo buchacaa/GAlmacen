@@ -21,6 +21,7 @@
         <div class="bg-none col-9 col-sm-9 mx-auto col-md-5 col-lg-5" style="">
           <h3 class="display-4 text-center text-warning"><i class="fa fa-fw fa-file-pdf-o"></i>
           <a href="Ayuda/Manual-PDF.pdf" target="_blank"><b>PDF</b></a></h3>
+          <h1>Textillo de prueba</h1>
         </div>
       </div>
 	  
